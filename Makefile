@@ -1,2 +1,2 @@
-PROJECT = lesson_4
+PROJECT = lesson_6
 include erlang.mk
